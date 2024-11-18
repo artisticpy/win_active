@@ -1,4 +1,5 @@
 # ✅ Activate Microsoft Office or Windows
+[![Author](https://img.shields.io/badge/Author-%20Artisticpy---?style=flat&logoColor=%23000000)](https://img.shields.io/badge/Author-%20Artisticpy---?style=flat&logoColor=%23000000)
 
 ## 💠 Windows User:
 
